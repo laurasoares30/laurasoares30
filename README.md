@@ -1,17 +1,19 @@
-<div align="center">
+<table align="center">
+<tr>
+  <td>
+    <img src="">
+  </td>
+  <td>
+    <img src="">
+  </td>
+  <td>
+    <img src="">
+  </td>
+</tr>
 
-<img src=""/>
-<details><summary> </summary>
-  <table>
-    <tr>
-      <td></td>
-    </tr>
-  </table>
-</details>
-
-<img src=""/>
-<details><summary> </summary></details>
-
-<img src=""/>
-<details><summary> </summary></details>
-</div>
+<tr>
+  <td></td>
+  <td></td>
+  <td></td>
+</tr>
+</table>
