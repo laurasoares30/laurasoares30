@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="icons8-arquivo-de-código-100.png"/>
+<img src=""/>
 <details><summary> </summary>
   <table>
     <tr>
